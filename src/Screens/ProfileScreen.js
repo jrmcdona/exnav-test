@@ -11,7 +11,7 @@ import {
   View,
 } from 'react-native';
 
-class ProfileScreen extends React.Component {
+export default class ProfileScreen extends React.Component {
   /**
     * This is where we can define any route configuration for this
     * screen. For example, in addition to the navigationBar title we
